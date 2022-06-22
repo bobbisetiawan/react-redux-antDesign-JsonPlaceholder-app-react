@@ -1,0 +1,27 @@
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.button-post{
+  width: 150px;
+}
+
+.button-action{
+  width: 80px;
+  margin: 10px;
+}
+
+.post-margin{
+  margin: 20px;
+}
+
+li{
+  list-style: none;
+  float: left;
+  margin-right: 20px;
+}
+
+li a{
+  color: white;
+}
