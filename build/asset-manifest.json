@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bobbisetiawan/react-redux/static/css/main.71395f59.css",
+    "main.js": "/bobbisetiawan/react-redux/static/js/main.adf3d6fd.js",
+    "static/js/787.3d700b2c.chunk.js": "/bobbisetiawan/react-redux/static/js/787.3d700b2c.chunk.js",
+    "index.html": "/bobbisetiawan/react-redux/index.html",
+    "main.71395f59.css.map": "/bobbisetiawan/react-redux/static/css/main.71395f59.css.map",
+    "main.adf3d6fd.js.map": "/bobbisetiawan/react-redux/static/js/main.adf3d6fd.js.map",
+    "787.3d700b2c.chunk.js.map": "/bobbisetiawan/react-redux/static/js/787.3d700b2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71395f59.css",
+    "static/js/main.adf3d6fd.js"
+  ]
+}
